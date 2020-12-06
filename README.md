@@ -85,20 +85,20 @@ Experimental Maps and Code for Alfa-Tau 2.0:
 
 3D Alfa-Tau using Unity3D:
 
-https://assetstore.unity.com/packages/templates/systems/usim-vehicle-simulation-framework-15674
-https://assetstore.unity.com/packages/tools/physics/dynamic-water-physics-2-147990 32 Euro
-https://github.com/crest-ocean/crest
-https://github.com/eliasts/Ocean_Community_Next_Gen
-https://github.com/maximan3000/BuoyancyUnity
-https://github.com/Jonasmortensen/UnityOceanSim
-https://assetstore.unity.com/publishers/39717 14 Euro (WarShip MODEL) * 10 
-https://assetstore.unity.com/packages/tools/particles-effects/crest-ocean-system-urp-141674#reviews 70 Euro
-https://assetstore.unity.com/packages/vfx/particles/environment/underwater-propeller-wake-125974 10 Euro
-https://assetstore.unity.com/packages/vfx/particles/fire-explosions/underwater-explosion-105988#description 10 Euro
-https://assetstore.unity.com/packages/3d/props/weapons/rocket-and-missile-fx-93518 14 Euro
-https://assetstore.unity.com/packages/tools/particles-effects/weather-maker-unity-weather-system-sky-water-volumetric-clouds-a-60955?_ga=2.218116442.259852900.1580723405-842093937.1579854709 62 Euro
-https://assetstore.unity.com/packages/tools/particles-effects/enviro-sky-and-weather-33963 45 Euro
-https://simul.co/truesky/ 100 Sterline
+- https://assetstore.unity.com/packages/templates/systems/usim-vehicle-simulation-framework-15674
+- https://assetstore.unity.com/packages/tools/physics/dynamic-water-physics-2-147990 32 Euro
+- https://github.com/crest-ocean/crest 
+- https://github.com/eliasts/Ocean_Community_Next_Gen
+- https://github.com/maximan3000/BuoyancyUnity
+- https://github.com/Jonasmortensen/UnityOceanSim
+- https://assetstore.unity.com/publishers/39717 14 Euro (WarShip MODEL) * 10 
+- https://assetstore.unity.com/packages/tools/particles-effects/crest-ocean-system-urp-141674#reviews 70 Euro
+- https://assetstore.unity.com/packages/vfx/particles/environment/underwater-propeller-wake-125974 10 Euro
+- https://assetstore.unity.com/packages/vfx/particles/fire-explosions/underwater-explosion-105988#description 10 Euro
+- https://assetstore.unity.com/packages/3d/props/weapons/rocket-and-missile-fx-93518 14 Euro
+- https://assetstore.unity.com/packages/tools/particles-effects/weather-maker-unity-weather-system-sky-water-volumetric-clouds-a-60955?_ga=2.218116442.259852900.1580723405-842093937.1579854709 62 Euro
+- https://assetstore.unity.com/packages/tools/particles-effects/enviro-sky-and-weather-33963 45 Euro
+- https://simul.co/truesky/ 100 Sterline
 Fog of War: https://github.com/OCASM/SSMS
 
 How to take a rigged model from Blender, import it into Unity and add a script to get parts moving using keyboard input.
@@ -122,5 +122,7 @@ WarShips Models:
 * https://www.turbosquid.com/Search/Artists/Chrisz3D
 * https://www.cgtrader.com/3d-models/watercraft/military/chinese-navy-type-054a-jiangkai-ii-class-frigates-ffg054a-fc5099a9-4c48-4b10-8bf4-7209aa9df274
 
-https://github.com/RyanStonebraker/Derelict
+Examples:
+
+- https://github.com/RyanStonebraker/Derelict
 
