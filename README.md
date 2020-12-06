@@ -91,6 +91,8 @@ Experimental Maps and Code for Alfa-Tau 2.0:
 - https://github.com/eliasts/Ocean_Community_Next_Gen
 - https://github.com/maximan3000/BuoyancyUnity
 - https://github.com/Jonasmortensen/UnityOceanSim
+- https://github.com/gasgiant/FFT-Ocean
+- https://github.com/gasgiant/Aircraft-Physics
 - https://assetstore.unity.com/publishers/39717 14 Euro (WarShip MODEL) * 10 
 - https://assetstore.unity.com/packages/tools/particles-effects/crest-ocean-system-urp-141674#reviews 70 Euro
 - https://assetstore.unity.com/packages/vfx/particles/environment/underwater-propeller-wake-125974 10 Euro
@@ -102,15 +104,18 @@ Experimental Maps and Code for Alfa-Tau 2.0:
 Fog of War: https://github.com/OCASM/SSMS
 
 How to take a rigged model from Blender, import it into Unity and add a script to get parts moving using keyboard input.
-https://www.youtube.com/watch?v=k2wbSMhGv9Q&feature=youtu.be
-https://assetstore.unity.com/packages/tools/physics/fast-buoyancy-61079
+- https://www.youtube.com/watch?v=k2wbSMhGv9Q&feature=youtu.be
+- https://assetstore.unity.com/packages/tools/physics/fast-buoyancy-61079
 
 How To Create Realistic Rocket Smoke Trail in Unity3D
 https://www.youtube.com/watch?v=pf9odBGaf70
+
 Rocket Flames in Unity Tutorial
 https://www.youtube.com/watch?v=__y100uwVdM
+
 Realistic Smoke Trail in Unity 3d
 https://www.youtube.com/watch?v=7pdHz_f6hZI
+
 Starting from: https://assetstore.unity.com/packages/vfx/particles/white-smoke-particle-system-20404
 
 Detonetor:
