@@ -102,6 +102,7 @@ Experimental Maps and Code for Alfa-Tau 2.0:
 - https://assetstore.unity.com/packages/tools/particles-effects/enviro-sky-and-weather-33963 45 Euro
 - https://simul.co/truesky/ 100 Sterline
 Fog of War: https://github.com/OCASM/SSMS
+- (https://www.youtube.com/watch?v=cqGq__JjhMM)[Enviro Weather Zones synced with Crest Ocean Waves]
 
 How to take a rigged model from Blender, import it into Unity and add a script to get parts moving using keyboard input.
 - https://www.youtube.com/watch?v=k2wbSMhGv9Q&feature=youtu.be
