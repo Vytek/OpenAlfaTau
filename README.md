@@ -83,6 +83,12 @@ Experimental Maps and Code for Alfa-Tau 2.0:
 * GUI: https://github.com/nothke/ProtoGUI
 * GUI Close: https://forum.unity.com/threads/closing-a-gui-window.15911/
 
+Water/Ocean:
+
+* https://github.com/Olof-AV/OceanWaterSim
+* https://github.com/maximan3000/BuoyancyUnity
+* https://assetstore.unity.com/packages/tools/physics/fast-buoyancy-61079
+
 3D Alfa-Tau using Unity3D:
 
 - https://assetstore.unity.com/packages/templates/systems/usim-vehicle-simulation-framework-15674
