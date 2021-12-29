@@ -38,6 +38,36 @@ Simulazione e studio SONAR, RADAR:
 - http://www.sonar-info.info/index.html
 - https://it.wikiversity.org/wiki/Corso:Applicazioni_tecniche_sul_sonar
 - https://www.radartutorial.eu/druck/index.en.html
+- Plugin WaveQuest:
+https://github.com/ARiA-redmondd/WaveQuest-USML-Plugin
+
+The Under Sea Modeling Library (USML) is a collection of C++ software development modules for sonar modeling and simulation:
+https://github.com/campreilly/UnderSeaModelingLibrary
+
+https://oalib-acoustics.org/Rays/USML/usml_frontpage.html
+
+Under Sea Modeling Library (USML)
+The Under Sea Modeling Library (USML) is a collection of C++ software development modules for sonar modeling and simulation. The Wavefront Queue 3D (WaveQ3D) model is the component of USML that computes acoustic transmission loss in the ocean using Hybrid Gaussian Beams in Spherical/Time Coordinates. At this time, most of the other modules provide support to WaveQ3D.
+
+3rd parties are free to contribute to the development of this model by forking the Git respository at https://github.com/campreilly/UnderSeaModelingLibrary.
+
+Sean M. Reilly
+Department of Ocean Engineering, University of Rhode Island, Narragansett RI, USA, campreilly@uri.edu
+ASW Senior Scientist, AEgis Technologies Group, sreilly@aegistg.com
+
+https://www.filamentgames.com/project/wavequest/
+
+Video:
+
+https://www.youtube.com/watch?v=2trRUf4TtS0
+
+Papers:
+
+https://asa.scitation.org/doi/pdf/10.1121/1.4764503
+
+https://www.researchgate.net/publication/258249178_Using_game-based_learning_with_integrated_computer_simulation_to_teach_core_concepts_in_underwater_acoustics/link/0c96053109ea207c8e000000/download
+
+https://www.ariacoustics.com/projects/
 
 Dadi ed altro:
 
