@@ -131,6 +131,7 @@ Water/Ocean:
 - https://github.com/Jonasmortensen/UnityOceanSim
 - https://github.com/gasgiant/FFT-Ocean
 - https://github.com/gasgiant/Aircraft-Physics
+- [Perfect Water Shaders (VR Ready) | Shader](https://www.patreon.com/posts/32252234)
 - https://assetstore.unity.com/publishers/39717 14 Euro (WarShip MODEL) * 10 
 - https://assetstore.unity.com/packages/tools/particles-effects/crest-ocean-system-urp-141674#reviews 70 Euro
 - https://assetstore.unity.com/packages/vfx/particles/environment/underwater-propeller-wake-125974 10 Euro
